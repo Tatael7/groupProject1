@@ -10,3 +10,10 @@ API ideas- Spitballin'
 (Correlated Associations)
 1,NFL stats and player data............ Example: most of these positions are filled by people that are (from here) or (weigh X pounds.
 2, Commerce and geography.......... Example: people that buy the most of this product are from this area, display image of area. 
+
+(correlated associations) 
+Nfl players salaries converted into crypt
+nfl stats compared to astronomical lengths among other statistics
+
+(random association)
+Chuck Norris jokes, with anything
